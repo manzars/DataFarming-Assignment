@@ -3,7 +3,7 @@
 """
 Created on Sat Jan 11 21:18:14 2020
 
-@author: salman
+@author: manzars
 """
 
 from bs4 import BeautifulSoup
