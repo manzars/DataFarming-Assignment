@@ -55,7 +55,7 @@ else:
     print(str(data.shape[0]) + " Data Scrapped Successfully")
     
 """
-wb = webdriver.Firefox(executable_path = "/location/to/geckodi=river")
+wb = webdriver.Firefox(executable_path = "/path/to/geckodriver")
 wb.get(url)
 html = wb.execute_script('return document.documentElement.outerHTML')
 soup = BeautifulSoup(html, "lxml")
